@@ -1,0 +1,7 @@
+# GIS Temporary Lock Files
+*.lock
+**/*.lock
+
+# OS metadata
+.DS_Store
+Thumbs.db
